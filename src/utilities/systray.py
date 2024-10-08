@@ -48,7 +48,7 @@ class Systray:
 
     @staticmethod
     def generate_icon():
-        urllib.request.urlretrieve('https://raw.githubusercontent.com/colinhartigan/valorant-rpc/v2/favicon.ico',Filepath.get_path(os.path.join(Filepath.get_appdata_folder(),'favicon.ico')))
+        urllib.request.urlretrieve('https://raw.githubusercontent.com/starkayc/valorant-rpc/v3/favicon.ico',Filepath.get_path(os.path.join(Filepath.get_appdata_folder(),'favicon.ico')))
 
     @staticmethod 
     def modify_config():

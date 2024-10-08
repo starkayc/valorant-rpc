@@ -8,7 +8,7 @@ class Checker:
     def check_version(config):
         try:
             current_version = Localizer.get_config_value("version")
-            data = requests.get("https://api.github.com/repos/colinhartigan/valorant-rpc/releases/latest")
+            data = requests.get("https://api.github.com/repos/starkayc/valorant-rpc/releases/latest")
             latest = data.json()["tag_name"]
             if latest != current_version:
                 color_print([("Yellow bold",f"({current_version} -> {latest}) {Localizer.get_localized_text('prints','version_checker','update_available')} "),("Cyan underline",f"https://github.com/colinhartigan/valorant-rpc/releases/tag/{latest}")])

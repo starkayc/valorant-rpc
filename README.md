@@ -73,10 +73,10 @@
 [stars-shield]: https://img.shields.io/github/stars/starkayc/valorant-rpc?logo=github&style=for-the-badge
 [stars-url]: https://github.com/starkayc/valorant-rpc/stargazers
 
-[releases-shield]: https://img.shields.io/github/downloads/colinhartigan/valorant-rpc/total?style=for-the-badge
+[releases-shield]: https://img.shields.io/github/downloads/starkayc/valorant-rpc/total?style=for-the-badge
 [releases-url]: https://github.com/starkayc/valorant-rpc/releases
 
-[language-shield]: https://img.shields.io/github/languages/top/colinhartigan/valorant-rpc?logo=python&logoColor=yellow&style=for-the-badge
+[language-shield]: https://img.shields.io/github/languages/top/starkayc/valorant-rpc?logo=python&logoColor=yellow&style=for-the-badge
 [language-url]: https://www.python.org/
 
 [kofi-shield]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
